@@ -239,10 +239,11 @@ a {
 
         .nav-tag ul li {
             display: inline-block;
+            margin-bottom:15px;
         }
 
             .nav-tag ul li a {
-                padding-right: 50px;
+                padding-right: 20px;
                 color: #999;
             }
 
